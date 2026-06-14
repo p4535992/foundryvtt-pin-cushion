@@ -1,5 +1,8 @@
 # Pin Cushion (note on canvas and journal directory enchantment)
 
+
+
+
 ![GitHub issues](https://img.shields.io/github/issues-raw/p4535992/foundryvtt-pin-cushion?style=for-the-badge)
 
 ![Latest Release Download Count](https://img.shields.io/github/downloads/p4535992/foundryvtt-pin-cushion/latest/module.zip?color=2b82fc&label=DOWNLOADS&style=for-the-badge)
@@ -17,6 +20,9 @@
 [![Translation status](https://weblate.foundryvtt-hub.com/widgets/pin-cushion/-/287x66-black.png)](https://weblate.foundryvtt-hub.com/engage/pin-cushion/)
 
 ### If you want to buy me a coffee [![alt-text](https://img.shields.io/badge/-Patreon-%23ff424d?style=for-the-badge)](https://www.patreon.com/p4535992)
+
+# NOTE: This module is under maintenance, I have no plans to update or add features. However, I will try to fix any bugs as possible. Any contribution is welcome.
+# if you are looking for somthing similar on FVTT 14 this project is a good alternative if you need only he pins map https://github.com/bb46003/Advance-Map-Pin/releases
 
 Adds additional functionality around Map Pins
 
