@@ -22,7 +22,9 @@
 ### If you want to buy me a coffee [![alt-text](https://img.shields.io/badge/-Patreon-%23ff424d?style=for-the-badge)](https://www.patreon.com/p4535992)
 
 # NOTE: This module is under maintenance, I have no plans to update or add features. However, I will try to fix any bugs as possible. Any contribution is welcome.
-# if you are looking for somthing similar on FVTT 14 this project is a good alternative if you need only he pins map https://github.com/bb46003/Advance-Map-Pin/releases
+# if you are looking for somthing similar on FVTT 14 this project is a good alternative if you need only he pins map [Advance-Map-Pin](https://foundryvtt.com/packages/advance-map-pin) or a minimal module that contains the bits&pieces of pin cushion like hiding background, always show label, text effects for labels on [more-pin-options](https://foundryvtt.com/packages/more-pin-options)
+
+
 
 Adds additional functionality around Map Pins
 
